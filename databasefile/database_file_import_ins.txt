@@ -1,0 +1,3 @@
+1) open your xampp mysql and create database "projectmanagement"
+2) Single click on projectmanagement and then click on import, select file that you downlaod from databasefile/projectmanagement
+3) done. 
